@@ -1,4 +1,4 @@
-#include "scanner.h"
+src/#include "scanner.h"
 #include "utils.h"
 #include <iostream>
 #include <windows.h>
