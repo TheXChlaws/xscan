@@ -1,6 +1,5 @@
 # XScan - Cross-Platform Security Scanner
 
-![XScan Banner](docs/banner.png)
 ![XScan Logo](docs/logo.png)
 
 XScan is a comprehensive security scanner that works across Termux, Kali Linux, and Windows platforms. It detects vulnerabilities, malware, open ports, and potential security issues.
